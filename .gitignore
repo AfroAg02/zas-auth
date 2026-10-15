@@ -123,3 +123,4 @@ docs/docs/reference/adapter
 
 ## Drizzle migration folder
 .drizzle
+.claude/settings.local.json
